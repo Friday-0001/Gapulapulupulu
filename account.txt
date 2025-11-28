@@ -66,7 +66,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1795888815,
+        "expirationDate": 1795890352,
         "hostOnly": false,
         "httpOnly": false,
         "name": "fbl_st",
@@ -75,7 +75,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "101721316%3BT%3A29405880"
+        "value": "101721316%3BT%3A29405905"
     },
     {
         "domain": ".facebook.com",
